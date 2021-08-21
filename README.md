@@ -1,13 +1,14 @@
 ### Olá! Meu Nome é Ricardo 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ricardin_y?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ricardin_y?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fricardin_y&screen_name=ricardin_y)
+[![Youtube Subs](https://img.shields.io/youtube/channel/subscribers/UCiCQgMY1nTkBxkXG7zc_6bA?style=social)]
 ## I'm a Husband, Father, Developer, and Teacher!!
 
-Nome: Ricardo
-Idade: 13
-Gosto: Anime, séries
-Developer Java (Iniciante), JavaScrip (Intermerdiário), CSS (Super Iniciante)
-Developer - Solar MC
+- ⚡ Nome: Ricardo
+- ⚡ Idade: 13
+- ⚡ Gosto: Anime, séries
+- ⚡ Developer Java (Iniciante), JavaScrip (Intermerdiário), CSS (Super Iniciante)
+- ⚡ Developer - Solar MC
 
 ### Connect with me:
 
