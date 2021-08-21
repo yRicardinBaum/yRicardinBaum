@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ricardin_y?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fricardin_y&screen_name=ricardin_y)
 [![Youtube Subs](https://img.shields.io/youtube/channel/subscribers/UCiCQgMY1nTkBxkXG7zc_6bA?style=social)](https://www.youtube.com/channel/UCiCQgMY1nTkBxkXG7zc_6bA)
-## I'm a Husband, Father, Developer, and Teacher!!
+## Me Chamo Ricardo, Estudante, Desenvolvedor, e Faço a 8º série!!
 
 - ⚡ Nome: Ricardo
 - ⚡ Idade: 13
@@ -10,13 +10,11 @@
 - ⚡ Developer Java (Iniciante), JavaScrip (Intermerdiário), CSS (Super Iniciante)
 - ⚡ Developer - Solar MC
 
-### Connect with me:
+### Conecte-se Comigo:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="yRicardinBaum | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="yRicardinBaumDEV | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ricard0marinh0_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
