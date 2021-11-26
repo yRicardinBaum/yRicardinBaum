@@ -8,7 +8,6 @@
 - ⚡ Idade: 13
 - ⚡ Gosto: Anime, séries
 - ⚡ Developer Java (Iniciante), JavaScrip (Intermerdiário), CSS (Super Iniciante)
-- ⚡ Developer - Solar MC
 
 ### Conecte-se Comigo!
 
