@@ -5,9 +5,10 @@
 ## Me Chamo Ricardo, Estudante, Desenvolvedor, e Faço a 8º série!!
 
 - ⚡ Nome: Ricardo
-- ⚡ Idade: 13
+- ⚡ Idade: 14
 - ⚡ Gosto: Anime, séries
 - ⚡ Developer Java (Iniciante), JavaScrip (Intermerdiário), CSS (Super Iniciante)
+
 
 ### Conecte-se Comigo!
 
