@@ -1,5 +1,6 @@
-### Olá! Meu Nome é Ricardo 👋
 <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+
+### Olá! Meu Nome é Ricardo 👋
 
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fricardin_y&screen_name=ricardin_y)
