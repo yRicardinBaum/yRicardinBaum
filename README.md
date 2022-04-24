@@ -22,7 +22,7 @@
 <br />
 
 <div align="center">
-      <p> Linguagens e ferramentas:</p>
+      <h3> Linguagens e ferramentas:</h3>
       <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a> 
       <a href="" target="_blank"><img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" target="_blank"></a> 
       <a href="" target="_blank"><img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" target="_blank"></a> 
