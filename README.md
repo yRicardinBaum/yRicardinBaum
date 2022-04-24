@@ -14,13 +14,13 @@
 <div>
 <h2 align="center">Me Chamo Ricardo, Estudante, Desenvolvedor, e Faço a 9º série!!</h2>
 
-  <a href="https://github.com/yRicardinBaum"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=yricardinbaum&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yricardinbaum&layout=compact&langs_count=7&theme=react" /></a>
+  <a href="https://github.com/yRicardinBaum"><img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=yricardinbaum&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img  height="180em"   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yricardinbaum&layout=compact&langs_count=7&theme=react" /></a>
 
-<p>- ⚡ Nome: Ricardo</p>
-<p>- ⚡ Idade: 14</p>
-<p>- ⚡ Gosto: Anime, séries</p>
-<p>- ⚡ Developer Java (Iniciante), JavaScript (Intermerdiário), CSS (Super Iniciante)</p>
+- ⚡ Nome: Ricardo
+- ⚡ Idade: 14
+- ⚡ Gosto: Anime, séries
+- ⚡ Developer Java (Iniciante), JavaScript (Intermerdiário), CSS (Super Iniciante)
 </div>
 
     
