@@ -7,7 +7,7 @@
 - ⚡ Nome: Ricardo
 - ⚡ Idade: 14
 - ⚡ Gosto: Anime, séries
-- ⚡ Developer Java (Iniciante), JavaScrip (Intermerdiário), CSS (Super Iniciante)
+- ⚡ Developer Java (Iniciante), JavaScript (Intermerdiário), CSS (Super Iniciante)
 
 
 ### Conecte-se Comigo!
