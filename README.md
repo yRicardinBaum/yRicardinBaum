@@ -14,8 +14,8 @@
 <div>
 <h2 align="center">Me Chamo Ricardo, Estudante, Desenvolvedor, e Faço a 9º série!!</h2>
 
-  <a href="https://github.com/yRicardinBaum"><img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=yricardinbaum&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img  height="100" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yricardinbaum&layout=compact&langs_count=7&theme=react" /></a>
+  <a href="https://github.com/yRicardinBaum"><img height="130" align="center" src="https://github-readme-stats.vercel.app/api?username=yricardinbaum&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img  height="130" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yricardinbaum&layout=compact&langs_count=7&theme=react" /></a>
 
 - ⚡ Nome: Ricardo
 - ⚡ Idade: 14
