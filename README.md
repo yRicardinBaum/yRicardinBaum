@@ -39,3 +39,6 @@
 [youtube]: https://www.youtube.com/channel/UCiCQgMY1nTkBxkXG7zc_6bA
 [instagram]: https://instagram.com/ricard0marinh0_
 [webdevplaylist]: https://github.com/yRicardinBaum
+
+
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
