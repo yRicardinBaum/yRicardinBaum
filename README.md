@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ricardin_y?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fricardin_y&screen_name=ricardin_y)
 [![Youtube Subs](https://img.shields.io/youtube/channel/subscribers/UCiCQgMY1nTkBxkXG7zc_6bA?style=social)](https://www.youtube.com/channel/UCiCQgMY1nTkBxkXG7zc_6bA)
-## Me Chamo Ricardo, Estudante, Desenvolvedor, e Faço a 8º série!!
+## Me Chamo Ricardo, Estudante, Desenvolvedor, e Faço a 9º série!!
 
 - ⚡ Nome: Ricardo
 - ⚡ Idade: 14
