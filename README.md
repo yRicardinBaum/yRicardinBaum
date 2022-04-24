@@ -5,11 +5,11 @@
 ### Olá! Meu Nome é Ricardo 👋
 </div>
 <br>
-<br>
 
 <div align="center" display="flex">
    <a  href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fricardin_y&screen_name=ricardin_y" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
    <a href="https://www.youtube.com/channel/UCiCQgMY1nTkBxkXG7zc_6bA" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
+      <a href="https://discordapp.com/users/409801761470152704" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 ## Me Chamo Ricardo, Estudante, Desenvolvedor, e Faço a 9º série!!
 
