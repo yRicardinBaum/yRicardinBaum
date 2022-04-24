@@ -10,7 +10,7 @@
    <a href="https://www.youtube.com/channel/UCiCQgMY1nTkBxkXG7zc_6bA" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
       <a href="https://discordapp.com/users/409801761470152704" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
-<h1>Me Chamo Ricardo, Estudante, Desenvolvedor, e Faço a 9º série!!</h1>
+<h2>Me Chamo Ricardo, Estudante, Desenvolvedor, e Faço a 9º série!!</h2>
 
 - ⚡ Nome: Ricardo
 - ⚡ Idade: 14
