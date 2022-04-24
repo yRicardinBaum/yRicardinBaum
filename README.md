@@ -1,8 +1,8 @@
 
 <div align="center">
 <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
-
 </div>
+
 <br>
 
 <div align="center" display="flex">
@@ -10,7 +10,8 @@
    <a href="https://www.youtube.com/channel/UCiCQgMY1nTkBxkXG7zc_6bA" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
       <a href="https://discordapp.com/users/409801761470152704" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
-<h2>Me Chamo Ricardo, Estudante, Desenvolvedor, e Faço a 9º série!!</h2>
+
+<h2 align="center">Me Chamo Ricardo, Estudante, Desenvolvedor, e Faço a 9º série!!</h2>
 
 - ⚡ Nome: Ricardo
 - ⚡ Idade: 14
@@ -19,10 +20,12 @@
 
 
 ![Meus Status](https://github-readme-stats.vercel.app/api?username=yricardinbaum&show_icons=true&theme=radical)
+
+    
 <br>
-<br>
+
 <div align="center">
-      <h3> Linguagens e ferramentas:</h3>
+      <p> Linguagens e ferramentas:</p>
       <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a> 
       <a href="" target="_blank"><img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" target="_blank"></a> 
       <a href="" target="_blank"><img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" target="_blank"></a> 
