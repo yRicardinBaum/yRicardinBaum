@@ -19,8 +19,8 @@
 
 
 ![Meus Status](https://github-readme-stats.vercel.app/api?username=yricardinbaum&show_icons=true&theme=radical)
-<br />
-
+<br>
+<br>
 <div align="center">
       <h3> Linguagens e ferramentas:</h3>
       <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a> 
