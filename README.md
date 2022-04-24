@@ -11,15 +11,17 @@
       <a href="https://discordapp.com/users/409801761470152704" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
+<div>
 <h2 align="center">Me Chamo Ricardo, Estudante, Desenvolvedor, e Faço a 9º série!!</h2>
 
-- ⚡ Nome: Ricardo
-- ⚡ Idade: 14
-- ⚡ Gosto: Anime, séries
-- ⚡ Developer Java (Iniciante), JavaScript (Intermerdiário), CSS (Super Iniciante)
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=yricardinbaum&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yricardinbaum&layout=compact&langs_count=7&theme=react" />
 
-
-![Meus Status](https://github-readme-stats.vercel.app/api?username=yricardinbaum&show_icons=true&theme=radical)
+<p>- ⚡ Nome: Ricardo</p>
+<p>- ⚡ Idade: 14</p>
+<p>- ⚡ Gosto: Anime, séries</p>
+<p>- ⚡ Developer Java (Iniciante), JavaScript (Intermerdiário), CSS (Super Iniciante)</p>
+</div>
 
     
 <br>
