@@ -20,7 +20,7 @@
 - ⚡ Nome: Ricardo
 - ⚡ Idade: 14
 - ⚡ Comida: Pastel kkkj
-- ⚡ Developer Java, HTML5, NodeJS.
+- ⚡ Developer Java.
     
 <br>
 
