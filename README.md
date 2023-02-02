@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-<h2>Me Chamo Ricardo, Estudante, Desenvolvedor, e Faço a 9º série!!</h2>
+<h2>Me Chamo Ricardo, Estudante, Desenvolvedor, e Faço o 1º ano do novo ensino médio!!</h2>
 
   <a href="https://github.com/yRicardinBaum"><img height="150" src="https://github-readme-stats.vercel.app/api?username=yricardinbaum&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yricardinbaum&layout=compact&langs_count=7&theme=react" /></a>
