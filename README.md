@@ -20,7 +20,7 @@
       
   <br>
   <br>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yricardinbaum&" alt="yricardinbaum" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yricardinbaum&theme=dark" alt="yricardinbaum" /></p>
 
 </div>
     
