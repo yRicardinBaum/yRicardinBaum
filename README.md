@@ -8,8 +8,13 @@
 </div>
 
 <div align="center">
+      <br>
+      <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Me+Chamo+Ricardo;+Estudante+e+Desenvolvedor;Fa%C3%A7o+o+1%C2%BA+ano+do+novo+ensino+m%C3%A9dio!!" alt="Typing SVG" /></a>
-
+      <br>
+      <br>
+      <br>
+      <br>
   <a href="https://github.com/yRicardinBaum"><img height="150" src="https://github-readme-stats.vercel.app/api?username=yricardinbaum&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yricardinbaum&layout=compact&langs_count=7&theme=react" /></a>
 </div>
