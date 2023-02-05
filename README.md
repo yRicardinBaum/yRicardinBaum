@@ -10,7 +10,8 @@
 <div align="center">
       <br>
       <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Me+Chamo+Ricardo;+Estudante+e+Desenvolvedor;Fa%C3%A7o+o+1%C2%BA+ano+do+novo+ensino+m%C3%A9dio!!" alt="Typing SVG" /></a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=750&color=01C8F7&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Prazer%2C+meu+nome+%C3%A9+Ari;No+momento+tenho+trabalhado+com+NextJS+e+React;Caso+queira+entrar+em+contato%2C+me+adicione+no+Discord%3A;AriG4M3R%238669)](https://git.io/typing-svg)
       <br>
       <br>
       <br>
