@@ -7,7 +7,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Me+Chamo+Ricardo;+Estudante+e+Desenvolvedor;Fa%C3%A7o+o+1%C2%BA+ano+do+novo+ensino+m%C3%A9dio!!" alt="Typing SVG" /></a>
       </div>
 
+
+
 <div align="center">
+      <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
      <br>
       <a href="https://discordapp.com/users/409801761470152704" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
       <br>
