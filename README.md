@@ -7,9 +7,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Me+Chamo+Ricardo;+Estudante+e+Desenvolvedor;Fa%C3%A7o+o+1%C2%BA+ano+do+novo+ensino+m%C3%A9dio!!" alt="Typing SVG" /></a>
       </div>
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
 
 <div align="center">
@@ -74,5 +71,9 @@ const ricardo = {
     funFact: "Existem duas maneiras de escrever programas sem erros; só o terceiro funciona"
 };
 ```
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/yRicardinBaum/yRicardinBaum/blob/output/github-contribution-grid-snake.svg)
