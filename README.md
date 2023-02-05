@@ -49,27 +49,24 @@
 <br>
 <br>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim...  
 
 ```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+const ricardo = {
+    code: ["Javascript/TypeScript", "Java"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            js: ["Node", "Next.js", "React"],
         },
-        mobileApp: {
-            native: ["Android Development"]
+        frontEnd: {
+            css: ["TailwindCSS"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: ["MongoDB", "MySql", "SQLite", "Redis"],
+        misc: ["Discord.js", "Bukkit/Spigot", "BungeeCord", "Selenium", "Puppeteer"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    architecture: ["Windows"],
+    currentFocus: "Terminar os estudos e conseguir um estágio",
+    funFact: "Existem duas maneiras de escrever programas sem erros; só o terceiro funciona"
 };
 ```
 
