@@ -62,14 +62,13 @@ export default class Profile extends Ricardo{
             js: ["Node", "Next.js", "React"],
         },
         frontEnd: {
-            css: ["TailwindCSS"]
+            css: ["TailwindCSS", "CSS", "HTML5"]
         },
         databases: ["MongoDB", "MySql", "SQLite", "Redis"],
         misc: ["Discord.js", "Bukkit/Spigot", "BungeeCord", "Selenium", "Puppeteer"]
     },
     architecture: ["Windows"],
-    currentFocus: "Terminar os estudos e conseguir um estágio",
-    funFact: "Existem duas maneiras de escrever programas sem erros; só o terceiro funciona"
+    currentFocus: "Terminar os estudos e conseguir um estágio"
    })
 };
 ```
