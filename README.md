@@ -74,6 +74,16 @@ const ricardo = {
 
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript       2 hrs 21 mins   █████████████████░░░░░░░░   68.66 %
+JavaScript       58 mins         ███████░░░░░░░░░░░░░░░░░░   28.60 %
+JSON             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Java             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+AUTO_DETECTED    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+```
+
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/yRicardinBaum/yRicardinBaum/blob/output/github-contribution-grid-snake.svg)
