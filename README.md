@@ -72,7 +72,7 @@ const ricardo = {
 };
 ```
 
-
+### <img src="https://static.thenounproject.com/png/3427435-200.png" width="50"> Tempo de programação...  
 <!--START_SECTION:waka-->
 
 ```text
