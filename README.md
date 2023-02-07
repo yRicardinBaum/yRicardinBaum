@@ -54,7 +54,8 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Um pouco mais sobre mim...  
 
 ```javascript
-const ricardo = {
+export default class Profile extends Ricardo{
+  return({
     code: ["Javascript/TypeScript", "Java"],
     technologies: {
         backEnd: {
@@ -69,6 +70,7 @@ const ricardo = {
     architecture: ["Windows"],
     currentFocus: "Terminar os estudos e conseguir um estágio",
     funFact: "Existem duas maneiras de escrever programas sem erros; só o terceiro funciona"
+   })
 };
 ```
 
