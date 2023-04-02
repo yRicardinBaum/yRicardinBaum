@@ -76,12 +76,12 @@ export default class Profile extends Ricardo{
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript     2 hrs 15 mins   ███████████▒░░░░░░░░░░░░░   45.06 %
-Java           59 mins         █████░░░░░░░░░░░░░░░░░░░░   19.67 %
-JavaScript     47 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.85 %
-textmate       21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
-Groovy         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-Gradle         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+TypeScript     2 hrs 20 mins   ████████████▒░░░░░░░░░░░░   49.27 %
+JavaScript     47 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.80 %
+Java           38 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
+textmate       20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+Groovy         17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+Gradle         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
 ```
 
 <!--END_SECTION:waka-->
