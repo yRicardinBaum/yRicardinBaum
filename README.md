@@ -75,7 +75,7 @@ export default class Profile extends Ricardo{
 ### <img src="https://cdn-icons-png.flaticon.com/512/3349/3349548.png" width="20"> Tempo de programação...  
 <!--START_SECTION:waka-->
 
-```text
+```txt
 TypeScript   1 hr 23 mins    █████████████████████████   100.00 %
 ```
 
