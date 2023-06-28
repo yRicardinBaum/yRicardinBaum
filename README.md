@@ -18,8 +18,6 @@
 <div align="center">
                   <h1>Informações: <h1/>
       <br>
-  <a href="https://github.com/yRicardinBaum"><img height="150" src="https://github-readme-stats.vercel.app/api?username=yricardinbaum&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yricardinbaum&layout=compact&langs_count=7&theme=react" /></a>
       
   <br>
   <br>
