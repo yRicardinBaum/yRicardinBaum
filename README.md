@@ -16,10 +16,7 @@
 </div>
 
 <div align="center">
-                  <h1>Informações: <h1/>
-      <br>
-      
-  <br>
+                  <h1>Informações: <h1/>      
   <br>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yricardinbaum&theme=dark" alt="yricardinbaum" /></p>
 
