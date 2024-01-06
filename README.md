@@ -53,15 +53,15 @@ export default class Profile extends Ricardo{
     code: ["Javascript/TypeScript", "Java"],
     technologies: {
         backEnd: {
-            js: ["Node", "Next.js", "React"],
+            js: ["Node", "Next.js", "Prisma"],
         },
         frontEnd: {
-            css: ["TailwindCSS", "CSS", "HTML5"]
+            css: ["TailwindCSS", "CSS", "HTML5", "React"]
         },
-        databases: ["MongoDB", "MySql", "SQLite", "Redis"],
+        databases: ["MongoDB", "MySql", "SQLite", "Redis", "PostgreSQL"],
         misc: ["Discord.js", "Bukkit/Spigot", "BungeeCord", "Selenium", "Puppeteer"]
     },
-    architecture: ["Windows"],
+    architecture: ["Windows", "MacOS", "Linux"],
     currentFocus: "Terminar os estudos e conseguir um estágio"
    })
 };
