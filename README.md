@@ -56,7 +56,7 @@ export default class Profile extends Ricardo{
             js: ["Node", "Next.js", "Prisma ORM", "React", "NextAuth.js"],
         },
         frontEnd: {
-            style: ["TailwindCSS", "CSS"]
+            style: ["TailwindCSS", "CSS", "Shadcn"]
         },
         databases: ["MongoDB", "MySql", "SQLite", "Redis", "PostgreSQL"],
         misc: ["Discord.js", "Bukkit/Spigot", "BungeeCord", "Selenium", "Puppeteer"]
