@@ -71,10 +71,7 @@ export default class Profile extends Ricardo{
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 45 mins   ██████████████████████▓░░   90.27 %
-JSON         11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
-Bash         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
