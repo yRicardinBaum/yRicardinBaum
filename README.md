@@ -25,13 +25,13 @@
 <hr/>    
 <div align="center">
       <h1>Tecnologias que utilizo: <h1/> 
-      <img src="https://skillicons.dev/icons?i=ts,js,java" />
+      <img src="https://skillicons.dev/icons?i=ts,js,java&theme=dark" />
       <br>
-      <img src="https://skillicons.dev/icons?i=nodejs,pnpm,react,nextjs,prisma,tailwind,cloudflare,aws,gradle" />
+      <img src="https://skillicons.dev/icons?i=nodejs,pnpm,react,nextjs,prisma,tailwind,cloudflare,aws,gradle&theme=dark" />
       <br>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,redis,firebase" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,redis,firebase&theme=dark" />
       <br>
-      <img src="https://skillicons.dev/icons?i=arch,apple,vscode" />     
+      <img src="https://skillicons.dev/icons?i=arch,apple,vscode&theme=dark" />     
 </div>
 
 <br>
