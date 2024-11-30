@@ -26,8 +26,11 @@
 <div align="center">
       <h1>Tecnologias que utilizo: <h1/> 
       <img src="https://skillicons.dev/icons?i=ts,js,java" />
+      <br>
       <img src="https://skillicons.dev/icons?i=nodejs,pnpm,react,nextjs,prisma,tailwind,cloudflare,aws,gradle" />
+      <br>
       <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,redis,firebase" />
+      <br>
       <img src="https://skillicons.dev/icons?i=arch,apple,vscode" />     
 </div>
 
