@@ -22,7 +22,7 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=yRicardinBaum&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-    
+<hr/>    
 <div align="center">
       <h1>Tecnologias que utilizo: <h1/> 
       <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjckZXvoK33AhUTIbkGHVR0CpEQFnoECBEQAQ&url=https%3A%2F%2Fwww.java.com%2Fpt-BR%2F&usg=AOvVaw03qM_V0IuJpAnb6ZM1WJM9" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a> 
