@@ -50,10 +50,10 @@ export default class Profile extends Ricardo{
             style: ["TailwindCSS", "CSS", "Shadcn"]
         },
         databases: ["MongoDB", "MySql", "SQLite", "Redis", "PostgreSQL"],
-        misc: ["Discord.js", "Bukkit/Spigot", "BungeeCord", "Selenium", "Puppeteer"]
+        misc: ["Discord.js", "Bukkit/Spigot", "BungeeCord", "Automation"]
     },
-    architecture: ["Windows", "MacOS", "Linux"],
-    currentFocus: "Terminar os estudos e conseguir um estágio"
+    architecture: ["Windows", "MacOS"],
+    currentFocus: "Being a success programmer"
    })
 };
 ```
